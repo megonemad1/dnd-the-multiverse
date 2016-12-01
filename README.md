@@ -7,6 +7,12 @@ D&D Soc is a regularly meeting group for anyone interested in tabletop RPGs! Eve
 
 > "D&D is the most fun you can have with your brain" ~ [Matthew Colville]
 
+## The Multiverse
+>"you can do anything, but so can everyone else" ~~
+
+as this is ment to be a resorce for DMs and not a strict rule set, eventuly descrepancys will occour between two diffrent games, i.e one DM blows up Adventure Island, the rest of the DMs using this resorce dont have to remove Adventure Island from their game. instead at the point where continuity can nolonger be maintained a new git branch will be made to facilitate this parralel world.
+further more if two groups with slightly differing worlds decide they want to meet up its as simple as merging the branches untill the partys want to split again at which point a new brach can be made.
+
 ## How To Use This Repo
 for the most part its self explanitory, each ymal file contains information about the world in terms of; setting, lore, props and just about any other useful resorce. Each
 - Ymal file Should Only Contain Information Pertaining To The File It Is About,
@@ -54,11 +60,6 @@ Kalas.yaml
     Actions: ['Javelin. Melee Weapon Attack +3 to hit, range 30/120, one target. Hit: 4 (1d6 +1 ) piercing damage. Properties: Thrown: range 30/120, It''s actually a pitchfork']
 ```
 
-## The Multiverse
->"you can do anything, but so can everyone else" ~~
-
-as this is ment to be a resorce for DMs and not a strict rule set, eventuly descrepancys will occour between two diffrent games, i.e one DM blows up Adventure Island, the rest of the DMs using this resorce dont have to remove Adventure Island from their game. instead at the point where continuity can nolonger be maintained a new git branch will be made to facilitate this parralel world.
-further more if two groups with slightly differing worlds decide they want to meet up its as simple as merging the branches untill the partys want to split again at which point a new brach can be made.
 
 ## links you will Enevitably need:
 ### Git:
