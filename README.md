@@ -7,6 +7,10 @@ D&D Soc is a regularly meeting group for anyone interested in tabletop RPGs! Eve
 
 > "D&D is the most fun you can have with your brain" ~ [Matthew Colville]
 
+<aside class="notice">
+# `WARNING: this repo may contain spoilers for players, if you are a player who is currently in a world based on this one it is for your own fun and enjoyment we surgest you dont read`
+</aside>
+
 ## The Multiverse
 >"you can do anything, but so can everyone else" ~~
 
@@ -20,7 +24,7 @@ any other information should be refrenced by using an understandable identifyer 
 exsample: 
 #### bad
 Overview.ymal:
-```
+```yaml
 ---
 -
     Kingdom: "Adventure Island"
@@ -29,7 +33,7 @@ Overview.ymal:
 ```
 #### good
 Overview.yaml
-```
+```yaml
 ---
 -
     Kingdom: "Adventure Island"
@@ -37,7 +41,7 @@ Overview.yaml
 
 ```
 Kalas.yaml
-```
+```yaml
 ---
 -
     Profession: Farmer 
