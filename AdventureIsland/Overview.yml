@@ -1,0 +1,13 @@
+---
+description: Has a different name in each culture. Compass leylines, wild magic, planar convergence. Adventure island is very dangerous in particular
+points of intrest:
+    island quarter:
+        water:
+            position on island: south
+        fire:
+            position on island: west
+        earth:
+            position on island: north
+        air:
+            position on island: east
+...

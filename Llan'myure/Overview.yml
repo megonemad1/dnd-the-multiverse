@@ -1,0 +1,21 @@
+---
+
+description:  (lanmir to humans) (north west) Elven elite, humans have agricultural settlements, tribute to elves in the forest, sacred lake (low population)
+points of intrest:
+  spoopy tower:
+    description: on the edge of the blood forest stand a mighty tower.
+    inhabitants: Elves
+    coordinates: [30, 23]
+
+  blood forest:
+    description: Home to the elves.
+    inhabitants: Elves
+    coordinates: [27, 35]
+
+
+  sacred lake:
+    description: sacred to the elves, said to clense even the most tenatios curses.
+    inhabitants: Elves
+    coordinates: [20, 35]
+
+...

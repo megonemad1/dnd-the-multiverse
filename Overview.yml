@@ -1,46 +1,37 @@
 ---
--
-    continent: TBD
-    size (miles^2): 3073030
-    map: media/rough_world_map.jpg
--
-    kingdom: '"Adventure Island"'
-    description: Has a different name in each culture. Compass leylines, wild magic, planar convergence. 
-    file: AdventureIsland/Overview.yaml 
-    map_pos:
--
-    kingdom: Yhovan 
-    description: '(south west) isolated, new to outside trade, majority dwarf population, set in it''s traditions, has sea connections (moderate population) '
-    file: Yhovan/Overview.yaml
-    map_pos:
--
-    kingdom: "Llan'myure (lanmir to humans)"
-    description: (north west) Elven elite, humans have agricultural settlements, tribute to elves in the forest, sacred lake (low population)
-    file: "Llan'myure/Overview.yaml"
-    map_pos:
--
-    kingdom: Empire of Divine Will 
-    description: (north east) Has a capital (city of divine will), hot climate, outlying settlements have a more feudal society, large metropolis city, lots of trade, large population 
-    file: Yhovan/Overview.yaml 
-    map_pos:
--
-    kingdom: Southern Wastes 
-    description: (south east) barren, nomadic communities, not very fertile land, higher population of "monsters" in the general surroundings. 
-    file: Empire of Divine Will/Overview.yaml 
-    map_pos:
--
-    kingdom: Pirates 
-    description: Operate throughout the sea and coastal areas, bases mostly in pirates cove (west) 
-    file: Pirates/Overview.yaml 
-    map_pos:
--
-    kingdom: City of Learning 
-    description: (found just east of the mountains in the north) has a university, learning, higher technology, education 
-    file: City of Learning/Overview.yaml 
-    map_pos:
--
-    kingdom: Evil Shit 
-    description: 'They''re kinda everywhere, but adventure island is very dangerous in particular. There''s a spoopy tower in the south east corner of the blood forest (elves) as well. '
-    file: Evil Shit/Overview.yaml 
-    map_pos:
+name: TBD
+grid scale: 24 miles
+map: medsia/rough_world_map.jpg
+points of intrest:
+    '"Adventure Island"':
+        file: AdventureIsland/Overview.yaml 
+        coordinates: [6, 35]
+
+    Yhovan:
+        file: Yhovan/Overview.yaml
+        coordinates: [15, 7]
+
+    Llanmyure: 
+        file: "Llan'myure/Overview.yaml"
+        coordinates: [27, 35]
+
+    Empire of Divine Will:
+        file: Yhovan/Overview.yaml 
+        coordinates: [40, 23]
+
+    Southern Wastes:
+        file: Empire of Divine Will/Overview.yaml
+        coordinates: [32, 10]
+       
+    Pirates:
+        file: Pirates/Overview.yaml 
+        coordinates: [27, 9]
+
+    City of Learning:
+        file: City of Learning/Overview.yaml 
+        coordinates: [39, 32]
+
+    Evil Shit:
+        file: Evil Shit/Overview.yaml 
+        coordinates: []
 ...
