@@ -16,12 +16,12 @@ points of intrest:
         coordinates: [27, 35]
 
     Empire of Divine Will:
-        file: Yhovan/Overview.yaml 
-        coordinates: [40, 23]
+        file: Empire of Divine Will/Overview.yaml 
+        coordinates: [45, 10]
 
     Southern Wastes:
-        file: Empire of Divine Will/Overview.yaml
-        coordinates: [32, 10]
+        file: Southern Wastes/Overview.yaml
+        coordinates: [32, 13]
        
     Pirates:
         file: Pirates/Overview.yaml 
@@ -29,7 +29,7 @@ points of intrest:
 
     City of Learning:
         file: City of Learning/Overview.yaml 
-        coordinates: [39, 32]
+        coordinates: [40, 23]
 
     Evil Shit:
         file: Evil Shit/Overview.yaml 

@@ -1,0 +1,71 @@
+---
+name: kethellon
+race: high elf
+gard rank: enforcer
+ac: 16
+hitpoints: 19
+pro ciency: +2
+attributes:
+  str: 15 (+2)
+  dex: 14 (+2)
+  con: 14 (+2)
+  int: 11 (+0)
+  wis: 13 (+1)
+  cha: 8 (-1)
+skills: 
+  perception: +3
+  athletics: +4 
+  intimidation: +1 
+challenge: 1/2 
+xp: 100
+racial features:
+  ability modifers: 
+    dex: +2
+    int: +1 
+  fey ancestry: >
+    you have advantage on saving throws against 
+    being charmed, and magic can’t put you to sleep.
+  darkvision: 60ft (18m / 12sqr)
+  trance: meditate for 4 hours instead of sleep.
+  keen senses: pro ciency in the perception skill.
+  elf weapon training: 
+    profciency: 
+      - longsword
+      - shortsword 
+      - shortbow
+      - longbow
+  cantrip: prestigitation
+  languages: speaks common, elvish and one extra.
+actions:
+  multiattack: the soldier makes one weapon melee attack or one ranged attack.
+  shortsword: 
+    weapon attack:
+      range:  
+        min: 5 ft 
+        max: 5 ft
+      hit: +4 to hit
+      number of targets: 1
+    hit: 
+      avrage: 5 
+      roll: 1d6 +2
+    damage type: slashing melee
+    properties: 
+      - finesse
+      - light
+  light crossbow:
+    weapon attack:
+      range: 
+        min: 80 ft
+        max: 320 ft
+      hit: +4 to hit
+      number of targets: 1
+    hit: 
+      avrage: 6 
+      roll: 1d8 +2  
+    damage type: piercing ranged
+    properties:
+      - ammunition
+      - range 80/320
+      - loading
+      - two-handed
+...
