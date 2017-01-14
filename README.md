@@ -71,6 +71,8 @@ Kalas.yaml
 ### Git:
 - http://ohshitgit.com/
 - https://try.github.io/
+
+
 ### D&D:
 - [Matthew Colville]
 - [Matt Mercer]
@@ -86,8 +88,10 @@ Kalas.yaml
 - http://rpgvirtualtabletop.wikidot.com/mapping-software
 - [Handel Animal 3.5]
 - [pixel sprite generator]
+- [random potion table]
 
 
+   [random potion table]: <https://www.reddit.com/r/DnDBehindTheScreen/comments/4btnkc/random_potions_table/?st=iwguyjch&sh=4acff5dd>
    [pixel sprite generator]: <https://github.com/zfedoran/pixel-sprite-generator>
    [Handel Animal 3.5]: <http://brilliantgameologists.com/boards/index.php?topic=10396.0>
    [genral rpg images]: <https://www.reddit.com/r/DnD/comments/1zdxej/i_just_finished_sorting_out_a_2_gb_archive_of/?st=iw6nwyqd&sh=e2a48fa2>

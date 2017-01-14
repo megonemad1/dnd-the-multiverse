@@ -1,0 +1,36 @@
+---
+Name: Kalas
+Ocupation: Farmer
+race: Human
+alignment: any
+Armor Class: 11 (Padded)
+Hit Points: 5 (1d8 +1)
+Speed: 30ft (9m / 6 sqr)
+Profciency: +2
+STR: 13 (+1)
+DEX: 11 (+0)
+CON: 13 (+1)
+INT: 11 (+0) 
+WIS: 12 (+1)
+CHA: 9 (-1)
+Skills: 
+ - Nature +2
+ - Animal Handling +3
+Challenge: 1/8 
+XP: 25
+Racial Features:
+ - Ability Modifers: +1 to all
+Languages: 
+ - speaks Common 
+ - one extra
+Actions:
+ Javelin:
+  Attack: +3 to hit
+  range: 30/120
+  target: one
+  Hit: 4 (1d6 +1)
+  damage type: Melee piercing 
+  Properties: 
+  - Thrown range: 30/120
+  discription: It's actually a pitchfork,
+...
